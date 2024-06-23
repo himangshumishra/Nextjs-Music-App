@@ -1,0 +1,56 @@
+
+{
+
+"courses": [
+    {
+      "id": 1,
+      "title": "Beginner Guitar Lessons",
+      "slug": "beginner-guitar-lessons",
+      "description": "Learn the basics of playing the guitar, including chords, strumming, and simple songs.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://unsplash.com/s/photos/guiter"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Piano Techniques",
+      "slug": "advanced-piano-techniques",
+      "description": "Master advanced piano techniques and improve your performance skills.",
+      "price": 79.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "https://unsplash.com/featured/?piano"
+    },
+    {
+      "id": 3,
+      "title": "Music Theory for Producers",
+      "slug": "music-theory-for-producers",
+      "description": "Understand music theory essentials tailored for music producers.",
+      "price": 59.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": true,
+      "image": "https://unsplash.com/featured/?music"
+    },
+    {
+      "id": 4,
+      "title": "Vocal Training for Singers",
+      "slug": "vocal-training-for-singers",
+      "description": "Improve your vocal techniques and learn how to maintain your voice.",
+      "price": 69.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "https://unsplash.com/featured/?singing"
+    },
+    {
+      "id": 5,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Learn how to produce electronic music using various software and hardware.",
+      "price": 89.99,
+      "instructor": "Alex Martinez",
+      "isFeatured": true,
+      "image": "https://unsplash.com/featured/?electronic-music"
+    }
+  ]
+}
